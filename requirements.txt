@@ -1,0 +1,8 @@
+easydict
+tensorflow_gpu
+scipy
+numpy
+opencv_python
+Cython
+Pillow
+PyYAML
